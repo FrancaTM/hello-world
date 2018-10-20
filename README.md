@@ -1,7 +1,7 @@
 # hello-world
 [Learning - GitHub] Hello World
 
-Fonte: [https://guides.github.com/activities/hello-world/](url)
+Fonte: https://guides.github.com/activities/hello-world/
 
 Olá!
 
